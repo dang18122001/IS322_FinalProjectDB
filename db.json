@@ -1,6 +1,6 @@
 {
   "applications": [
     { id: 0, companyName: "Apple", position: "Dev", status: "Applied" },
-    { id: 1, companyName: "T-mobile", position: "SDE", status: "Rejected" },
+    { id: 1, companyName: "T-mobile", position: "SDE", status: "Rejected" }
   ]
 }
